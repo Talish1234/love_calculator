@@ -218,7 +218,7 @@ padding-bottom: 3%;
 }
 .quotes-box:hover
 {
- padding: 12% 8%;
+ transform:scale(1.06);
  border: solid 2px grey;
  border-radius: 25px;
  box-shadow: 0 0 30px black;
